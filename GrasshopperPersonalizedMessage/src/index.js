@@ -1,6 +1,6 @@
 function greet (name, owner) {
-    const own = 'Hello boss';
-    const not = 'Hello guest';
+    const own = 'Hello boss!';
+    const not = 'Hello guest!';
     if (name === owner){
        return own;
     }

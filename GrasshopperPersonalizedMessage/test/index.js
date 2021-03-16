@@ -1,7 +1,7 @@
 let greet = require('../src/index');
 let assert = require('assert');
 
-describe ('move', function(){
+describe ('Personalized Message', function(){
     it('test', function(){
         let ans = greet("Daniel", "Daniel");
         assert.strictEqual(ans, "Hello boss");

@@ -6,7 +6,7 @@
 
 ## <p align="center">Step by Step Process to run the test.</p>
 
-Quick Start
+<b>Quick Start</b>
 
 * Download the latest version of node.js [here!](https://www.nodejs.org)
 * Type "node --version" in your terminal, if it display the node version it means it is installed successfully.

@@ -1,6 +1,6 @@
 
 # <p style="text-align: center;">NODEJS
- <img src="nodejs.png" width="100" height="100">
+ <img src="nodes.png" width="200" height="100">
 </p>
 
 ## <p style="text-align: center;">Step by Step Process to run the test.</p>

@@ -2,7 +2,7 @@
   <img width="100" height="100" src="nodejsfile.jpg">
 </p>
 
- <p style= "text-align: center;">Step by Step Process to run the test.</p>
+ <center>Step by Step Process to run the test.</center>
 
 Quick Start
 

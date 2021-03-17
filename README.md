@@ -1,10 +1,5 @@
-# <p align="center">
-  <img src="nodes.png">
-  <br>
-  <br>
-  <b>NODE.JS</b>
-</p>
 
+# <p style="text-align: center;">NODEJS</p>
 ## <p style="text-align: center;">Step by Step Process to run the test.</p>
 
 Quick Start

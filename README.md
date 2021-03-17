@@ -1,9 +1,9 @@
-
 <p align="center">
   <img width="150" height="100" src="nodejsfile.jpg">
+  <h1>NODE.JS</h1>
 </p>
 
-## <p style="text-align: center;">Step by Step Process to run the test.</p>
+ <p align= "center"><h2>Step by Step Process to run the test.</h2></p>
 
 Quick Start
 

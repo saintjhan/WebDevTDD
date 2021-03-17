@@ -1,15 +1,23 @@
-# Step by Step Process to run the test.
+# <p align="center">
+  <img src="nodes.png">
+  <br>
+  <br>
+  <b>NODE.JS</b>
+</p>
+
+## <p style="text-align: center;">Step by Step Process to run the test.</p>
+
 Quick Start
 
-*Download the latest version of node.js [here!](https://www.nodejs.org)
-*Type "node --version" in your terminal, if it display the node version it means it is installed successfully.
-*Make a directory
-*Add src folder and create index.js file
-*Add test folder and create index.js file
-*Inside your index.js in src folder put the function for testing and export that function by typing module.exports = (function_name);
-*In the test folder index.js you can call that function by typing var/const/let (function_name) = require('../src/index');
-*Insert the assert type let assert = require('assert');
-*Then you can put your testing here, See sample here at [Mocha](https://www.davidbaumgold.com/tutorials/automated-tests-node/) category.
+* Download the latest version of node.js [here!](https://www.nodejs.org)
+* Type "node --version" in your terminal, if it display the node version it means it is installed successfully.
+* Make a directory
+* Add src folder and create index.js file
+* Add test folder and create index.js file
+* Inside your index.js in src folder put the function for testing and export that function by typing module.exports = (function_name);
+* In the test folder index.js you can call that function by typing var/const/let (function_name) = require('../src/index');
+* Insert the assert type let assert = require('assert');
+* Then you can put your testing here, See sample here at [Mocha](https://www.davidbaumgold.com/tutorials/automated-tests-node/) category.
 
 **Configure Terminal and Testing**
 
